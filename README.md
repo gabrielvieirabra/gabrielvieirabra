@@ -32,6 +32,14 @@
 <br />
 
 <details>
+  <summary>🔷 GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
   <summary>🔷 GitHub Stats</summary>
 
   <img align="left" alt="gabrielvieirabra GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gabrielvieirabra&show_icons=true&hide_border=true&theme=dracula" />
