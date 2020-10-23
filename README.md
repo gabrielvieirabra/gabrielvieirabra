@@ -31,20 +31,14 @@
 <br />
 <br />
 
-<details>
-  <summary>🔷 GitHub Activity</summary>
+### 🔷 GitHub Activity
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-</details>
+### 🔷 GitHub Stats
 
-<details>
-  <summary>🔷 GitHub Stats</summary>
-
-  <img align="left" alt="gabrielvieirabra GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gabrielvieirabra&show_icons=true&hide_border=true&theme=dracula" />
-
-</details>
+<img align="left" alt="gabrielvieirabra GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gabrielvieirabra&show_icons=true&hide_border=true&theme=dracula" />
 
 <br />
 <br />
