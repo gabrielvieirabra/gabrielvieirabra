@@ -8,7 +8,7 @@
 
 ### You can find me here:
 [<img align="left" alt="gabrielsousabra Email" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/281/281769.svg" />][email]
-[<img align="left" alt="gabrielsousabra Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="gabrielsousabra Linkedin" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
 
 <br />
 
