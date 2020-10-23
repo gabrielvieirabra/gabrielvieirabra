@@ -2,8 +2,8 @@
 
 ### I'm a self-taught Devops Engineer and a hard-working student of programming
 - 🏢 I'm currently placed at Banco do Brasil automating things with Ansible and Python
-- 🏆 Currently holding three valid RedHat [certifications][certs]: RHCSA, RH Openshift 3.9 Administrator & RH Hybrid Cloud Management
-- 📚 I'm learning Vanilla Javascript, looking forward to learn some frameworks
+- 🏆 Holding three valid RedHat [certifications][certs]: RHCSA, RH Openshift 3.9 Administrator & RH Hybrid Cloud Management
+- 📚 Currently learning Vanilla Javascript, looking forward to learn some frameworks
 - 💗 And i really love to listen to music and play games
 
 ### You can find me here:
