@@ -33,7 +33,12 @@
 
 <img align="left" alt="gabrielvieirabra Most used languages" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs/?username=gabrielvieirabra&show_icons=true&hide_border=true&theme=dracula" />
 
-<img align="left" alt="gabrielvieirabra GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gabrielvieirabra&show_icons=true&hide_border=true&theme=dracula&count_private=true" />
+<br />
+
+<img align="right" alt="gabrielvieirabra GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gabrielvieirabra&show_icons=true&hide_border=true&theme=dracula&count_private=true" />
+
+<br />
+<br />
 
 ### 🔷 GitHub Activity
   
