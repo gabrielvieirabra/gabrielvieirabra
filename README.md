@@ -7,8 +7,9 @@
 - 💗 And i really love to listen to music and play games
 
 ### You can find me here:
-[<img align="left" alt="gabrielsousabra Email" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/281/281769.svg" />][email]
-[<img align="left" alt="gabrielsousabra Linkedin" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielsousabra/)](https://www.linkedin.com/in/gabrielsousabra/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:gabrielsousabra@gmail.com)
 
 <br />
 
