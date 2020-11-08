@@ -1,6 +1,6 @@
 ### Hello you, I'm Gabriel and here is a little about my life and career 🚀🚀
 
-### I'm a self-taught Devops Engineer and a hard-working student of programming
+### I'm a self-taught Devops Engineer
 - 🏢 I'm currently placed at Banco do Brasil automating things with Ansible and Python
 - 🏆 Holding three valid RedHat [certifications][certs]: RHCSA, RH Openshift 3.9 Administrator & RH Hybrid Cloud Management
 - 📚 Currently learning GoLang
