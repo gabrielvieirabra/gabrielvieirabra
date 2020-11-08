@@ -3,15 +3,14 @@
 ### I'm a self-taught Devops Engineer and a hard-working student of programming
 - 🏢 I'm currently placed at Banco do Brasil automating things with Ansible and Python
 - 🏆 Holding three valid RedHat [certifications][certs]: RHCSA, RH Openshift 3.9 Administrator & RH Hybrid Cloud Management
-- 📚 Currently learning Vanilla Javascript, looking forward to learn some frameworks
-- 💗 And i really love to listen to music and play games
+- 📚 Currently learning GoLang
 
 ### You can find me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielsousabra/)](https://www.linkedin.com/in/gabrielsousabra/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:gabrielsousabra@gmail.com)
 
-### Skills, Languages and Tools used:
+### Skills, tools, programming languages:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Linux" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/226/226772.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -19,8 +18,6 @@
 <img align="left" alt="Ansible" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" />
 <img align="left" alt="Docker" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919853.svg" />
 <img align="left" alt="Kubernetes" width="26px" src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -28,13 +25,11 @@
 <br />
 <br />
 
-<img align="justify" alt="gabrielvieirabra Most used languages" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs/?username=gabrielvieirabra&show_icons=true&hide_border=true&theme=dracula" />
+<!-- <img align="justify" alt="gabrielvieirabra Most used languages" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs/?username=gabrielvieirabra&show_icons=true&hide_border=true&theme=dracula" />
 
-<img align="justify" alt="gabrielvieirabra GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gabrielvieirabra&show_icons=true&hide_border=true&theme=dracula&count_private=true" />
+<img align="justify" alt="gabrielvieirabra GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gabrielvieirabra&show_icons=true&hide_border=true&theme=dracula&count_private=true" /> -->
 
 <br />
-
-### 🔷 GitHub Activity
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
